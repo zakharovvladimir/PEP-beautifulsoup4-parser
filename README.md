@@ -2,11 +2,6 @@
 
 The parser collects data about all PEPs, check statuses and extract them to a *.csv file, collects information about Python version status and downloads *.zip archives.
 
-## 1. [Project Techs](#1)
-## 2. [How to launch](#2)
-## 3. [Commands](#3)
-## 4. [Author](#4)
-
 ## 1. Project Techs
 
 - Python
@@ -14,7 +9,7 @@ The parser collects data about all PEPs, check statuses and extract them to a *.
 - Prettytable
 - Logging
 
-### 2. How to launch
+## 2. How to launch
 
 ```
 git clone https://github.com/zakharovvladimir/bs4_parser_pep.git
@@ -52,5 +47,5 @@ python main.py whats-new
 
 ## 4. Author
 
-Vladimir Zakharov
-E-mail: vladimir.zakharov.s@yandex.ru
+Vladimir Zakharov // 
+vladimir.zakharov.s@yandex.ru

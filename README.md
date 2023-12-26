@@ -1,4 +1,4 @@
-# Проект парсинга pep
+# PEP BeautifulSoup4 parsing
 
 The parser collects data about all PEPs, check statuses and extract them to a *.csv file, collects information about Python version status and downloads *.zip archives.
 

@@ -49,3 +49,6 @@ python main.py whats-new
 
 Vladimir Zakharov // 
 vladimir.zakharov.s@yandex.ru
+
+## 5. License
+[MIT](https://choosealicense.com/licenses/mit/)
